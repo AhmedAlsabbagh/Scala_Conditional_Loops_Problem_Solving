@@ -1,1 +1,1 @@
-# Scala_Conditional_Loops_Problem_Solving
+ there are some conditional statements and loops in scala
